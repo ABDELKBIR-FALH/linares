@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@theme{
+/* Fonts */
+  --font-heading: "Raleway", sans-serif;   /* Bold 700, ExtraBold 800 */
+  --font-body: "Outfit", sans-serif;       /* Regular 400, Medium 500, SemiBold 600 */
+
+  /* Orange shades (primary) */
+  --color-brand-65: #ff8d4c;
+  --color-brand-70: #ff9e66;
+  --color-brand-75: #ffae80;
+  --color-brand-80: #ffbe99;
+  --color-brand-90: #ffdecc;
+  --color-brand-95: #ffefe5;
+  --color-brand-97: #fff5f0;
+  --color-brand-99: #fffcfa;
+
+  /* Grey shades */
+  --color-grey-10: #191919;
+  --color-grey-15: #262626;
+  --color-grey-20: #333333;
+  --color-grey-30: #4c4c4d;
+  --color-grey-35: #59595a;
+  --color-grey-40: #656567;
+  --color-grey-60: #98989a;
+  --color-grey-70: #b3b3b3;
+
+  /* Absolute colors */
+  --color-white: #fff;
+  --color-black: #000;
+  }
